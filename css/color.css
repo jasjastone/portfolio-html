@@ -1,0 +1,117 @@
+.default-text{
+    color: #0018f9 !important;
+}
+.default-bg{
+    background-color: #0018f9 !important;
+}
+.white-text{
+    color: #fff !important;
+}
+.white-bg{
+    background-color: #fff !important;
+}
+.yale-text{
+    color: #0e4c92 !important;
+}
+.yale-bg{
+    background-color: #0e4c92 !important;
+}
+.blue-gray-white-text{
+    color: #7285a5 !important;
+}
+.blue-gray-white-bg{
+    background-color: #7285a5 !important;
+}
+.blue-gray-dark-text{
+    color: #4d516d !important;
+}
+.blue-gray-dark-bg{
+    background-color: #4d516d !important;
+}
+.blue-sky-text{
+    color: #95c8d8 !important;
+}
+.blue-sky-bg{
+    background-color: #95c8d8 !important;
+}
+.carolina-text{
+    color: #57a0d2 !important;
+}
+.carolina-bg{
+    background-color: #57a0d2 !important;
+}
+.turkish-text{
+    color: #5097a4 !important;
+}
+.turkish-bg{
+    background-color: #5097a4 !important;
+}
+.maya-text{
+    color: #73c2fb !important;
+}
+.maya-bg{
+    background-color: #73c2fb !important;
+}
+.navy-text{
+    color: navy !important;
+}
+.navy-bg{
+    background-color: navy !important;
+}
+.azure-text{
+    color: #0080fe !important;
+}
+.azure-bg{
+    background-color: #0080fe !important;
+}
+.space-text{
+    color: #1c2951 !important;
+}
+.space-bg{
+    background-color: #1c2951 !important;
+}
+.egyptian-text{
+    color: #1134a6 !important;
+}
+.egyptian-bg{
+    background-color: #1134a6 !important;
+}
+.denim-text{
+    color: #121e3a !important;
+}
+.denim-bg{
+    background-color: #121e3a !important;
+}
+.prussian-text{
+    color: #003151 !important;
+}
+.prussian-bg{
+    background-color: #003151 !important;
+}
+.olympic-text{
+    color: #008ecc !important;
+}
+.olympic-bg{
+    background-color: #008ecc !important;
+}
+.sapphire-text{
+    color: #0f52ba !important;
+}
+.sapphire-bg{
+    background-color: #0f52ba !important;
+}
+.airforce-text{
+    color: #598baf !important;
+}
+.airforce-bg{
+    background-color: #598baf !important;
+}
+
+
+/* -----------other page setting for all ----------------------- */
+/* ----style body---  */
+body{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+/* ---end of style body---- */
